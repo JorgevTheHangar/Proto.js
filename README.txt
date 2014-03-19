@@ -30,3 +30,6 @@ buttons.addEvent('click',doSomething);
 
 ** Notice how proto.js use the method .get() in order to grab the elements that match with the selector.
 ** It works as fine as JQuery, but again, you do not need a custom Object type.
+
+
+All rights reserverd 2013
