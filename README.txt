@@ -1,4 +1,4 @@
-<h1> PROTO.js </h1>
+PROTO.js
 
 About Proto:
 
